@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(void)	/* Prints exactly
-		 *  Programming is like building a multilingual puzzle,
-		 *  followed by a new line
+		 * Programming is like building a multilingual puzzle,
+		 * followed by a new line
 		 */
 {
 	puts("\"Programming is like building a multilingual puzzle");
