@@ -23,6 +23,7 @@ int main(void)
 	 * while ((lst = n % 10))
 	 * {
 	 */
+	lst = n % 10;
 	if (lst > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, lst);
