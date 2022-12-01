@@ -2,10 +2,11 @@
 
 /**
  * _abs - computes absolute value of integer
+ * @r: the integer
  *
- * Reeturn: Always 0.
+ * Return: Always 0.
  */
-int _abs(int)
+int _abs(int r)
 {
 	unsigned int r;
 	return (0);
