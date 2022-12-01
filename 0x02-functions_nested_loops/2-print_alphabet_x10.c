@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - print 10 time a - z
+ * print_alphabet_x10 - print 10 times a - z
  *
  * Return: Always 0.
  */
