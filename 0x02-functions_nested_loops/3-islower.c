@@ -3,7 +3,7 @@
 /**
  * _islower - check lowercase char
  *
- * Return: Akways 0.
+ * Return: Always 0.
  */
 
 int _islower(int)
