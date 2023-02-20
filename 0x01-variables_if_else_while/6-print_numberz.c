@@ -3,7 +3,7 @@
 /**
  * main - prints dingle digit number base 10
  *
- * Description: main function printing 
+ * Description: main function printing
  * single digit number of base 10 from 0 to 9
  * Return: 0 if successful
  */

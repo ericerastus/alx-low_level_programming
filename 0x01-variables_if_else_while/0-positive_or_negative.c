@@ -5,7 +5,8 @@
 /**
  * main - checks sign of number
  *
- * Description: main function checking for positive or negative sign of integer n
+ * Description: main function checking for
+ * positive or negative sign of integer n
  * Return: 0 if successful otherwise non zero value
  */
 
