@@ -12,5 +12,9 @@ int print_last_digit(int num)
 	int lstdig;
 	
 	lstdig = num % 10;
+
+	if (lstdig < 0)
+		lstdig *= -1;
+	_putchar(lstdig + '0');
 	return (lstdig);
 }
